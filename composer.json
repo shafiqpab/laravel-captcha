@@ -1,5 +1,5 @@
 {
-    "name": "webcraft/laravel-captcha",
+    "name": "shafiqpab/laravel-captcha",
     "description": "A reusable, extensible CAPTCHA package for Laravel 10+ with image, math and text generators.",
     "type": "library",
     "license": "MIT",
